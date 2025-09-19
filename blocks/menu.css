@@ -4,6 +4,10 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .menu__title{
@@ -24,7 +28,7 @@ line-height: 30px;
 text-align: center;
 }
 
-.menu__card{
+.menu__cards{
   margin: 0;
   padding: 0;
   list-style-type: none;
